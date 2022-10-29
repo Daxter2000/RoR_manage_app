@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  names: MyString
+  ap_pat: MyString
+  ap_mat: MyString
+  tel: MyString
+  channel: MyString
+  company_id: 
+
+two:
+  names: MyString
+  ap_pat: MyString
+  ap_mat: MyString
+  tel: MyString
+  channel: MyString
+  company_id: 
